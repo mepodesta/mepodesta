@@ -46,4 +46,4 @@ Especialista en redes de telecomunicaciones con más de 10 años de experiencia 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mepodesta&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=mepodesta&theme=radical)](https://git.io/streak-stats)
 
-🎯 Siempre aprendiendo y mejorando. ¡Conectemos!
+🎯 Siempre aprendiendo y mejorando.
